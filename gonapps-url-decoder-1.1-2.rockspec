@@ -1,17 +1,17 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "gonapps-url-decoder"
-version = "1.1-1"
+version = "1.1-2"
 
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.1-2",
   url = "git://github.com/LuaDist-testing/gonapps-url-decoder.git"
 }
 -- Original source
 -- source = {
 --     url = "git://github.com/gonapps/gonapps-lua-url-decoder",
---     tag = "v1.1"
+--     tag = "v1.1-2"
 -- }
 
 description = {
